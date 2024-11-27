@@ -42,7 +42,18 @@ Feedback is very much necessary from the alumni in order to improve the features
 ## Proposed Solution / Architecture Diagram
 
 
+![Architecture Diagram](https://github.com/user-attachments/assets/9763371a-badb-4a0e-891f-6a60431fabee)
+
+
+
+
 ## Use Cases
+
+
+
+![Alumni](https://github.com/user-attachments/assets/8c179f9f-ca85-4f7c-a54e-af538a71260d)
+
+
 
 
 ## Technology Stack
@@ -64,4 +75,17 @@ Feedback is very much necessary from the alumni in order to improve the features
 
 
 ## Dependencies
+
+1.Web (ReactJS/Angular)
+2.Mobile (React Native/Flutter)
+3.UI/UX Design
+4.Backend Development 
+5.Database Management
+6.Cloud Hosting (AWS, GCP, Azure)
+7.Digital Marketing (Social Media, SEO, Email Campaigns)
+8.Testing and QA
+9.Budget:$50,000 – $150,000
+
+
+
 
