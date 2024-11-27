@@ -47,11 +47,17 @@ Feedback is very much necessary from the alumni in order to improve the features
 
 ## Technology Stack
 1.ReactJS/Angular
+
 2.NodeJS/Django
+
 3.Flutter/React Native
+
 4.PostgreSQL/MongoDB
+
 5.Cloud-based solutions like AWS, Azure, or GCP
+
 6.Gpay , Patym and other mobile payment app
+
 7.Linkedin, Naukri
    
 
