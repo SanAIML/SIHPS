@@ -77,13 +77,21 @@ Feedback is very much necessary from the alumni in order to improve the features
 ## Dependencies
 
 1.Web (ReactJS/Angular)
+
 2.Mobile (React Native/Flutter)
+
 3.UI/UX Design
+
 4.Backend Development 
+
 5.Database Management
+
 6.Cloud Hosting (AWS, GCP, Azure)
+
 7.Digital Marketing (Social Media, SEO, Email Campaigns)
+
 8.Testing and QA
+
 9.Budget:$50,000 – $150,000
 
 
