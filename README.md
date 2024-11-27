@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number:
-## Name:
+## Register Number:24900172
+## Name:Sanchita Sandeep
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,6 +10,33 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.Registration:
+Creating a user-friendly registration platform where the alumni of government engineering colleges could create their own username and password and register on the platform.Verification is necessary in order to create a safe and secure community. 
+
+2.Profile:
+In the particular app the alumni can create his or her profile which includes their batch number, their department,postings in college ,certificates, project work , interests and many more .
+This profile will help alumni to get notifications according to their interest and field of knowledge.
+In this profile they can also share their Stories of Success and the challenges they faced to inspire students.  
+
+3.Networking Hub for job opportunities:
+The networking hub connects the alumni to worldwide companies for multiple job opportunities according to their department.It can also provide the alumni with short term courses in order to develop their skills and certification 
+
+4.Alumni Directory
+ The searchable alumni directory is designed for efficient and effective networking. Users can find peers based on various criteria like graduation year, field of study, industry, or location. Advanced privacy settings allow alumni to control their visibility, ensuring comfort while fostering meaningful connections within the community.
+
+5. Event Planning
+The app will provide a platform for the planning of events and reunions. Notifications of the particular event will be displayed to the alumni and keep them updated about the event.
+The alumni can also post photos of the particular event.
+
+6.Donation portal:
+This portal will allow safe and secure transaction of funds from the alumni to their college and which will increase the philanthropic support.
+
+
+
+7.Feedback
+Feedback is very much necessary from the alumni in order to improve the features of the app.Notifications of feedback(rating of app) will be provided to the alumni and with the given feedbacks updation will take place. 
+
+
 
 
 ## Proposed Solution / Architecture Diagram
@@ -19,6 +46,15 @@ Government of Gujarat
 
 
 ## Technology Stack
+1.ReactJS/Angular
+2.NodeJS/Django
+3.Flutter/React Native
+4.PostgreSQL/MongoDB
+5.Cloud-based solutions like AWS, Azure, or GCP
+6.Gpay , Patym and other mobile payment app
+7.Linkedin, Naukri
+   
+
 
 
 ## Dependencies
